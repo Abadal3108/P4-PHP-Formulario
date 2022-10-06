@@ -15,7 +15,7 @@
     <input type="radio" name="tipo" value="Profesor" id="Profesor">
     </br>
     </br>
-    <input type="number" placeholder="edad:" id="edad" name="edad"
+    <input type="number" placeholder=q"edad:" id="edad" name="edad"
            min="1" max="100">
     </br>
     </br>
